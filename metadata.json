@@ -1,0 +1,6 @@
+{
+  "name": "QuickQR – Free Modern QR Code Generator",
+  "description": "Generate, customize, and download high-resolution QR codes for websites, Wi-Fi, contacts, WhatsApp, events, and more. 100% free with no signup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
