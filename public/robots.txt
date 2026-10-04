@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://qr-code-generator-eosin-ten.vercel.app/sitemap.xml
+Sitemap: https://qr-code-generator-mkma.vercel.app/sitemap.xml
